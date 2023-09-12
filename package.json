@@ -1,0 +1,23 @@
+{
+  "name": "test-fastify-api-for-ecs",
+  "version": "1.0.0",
+  "description": "creating a test fastify api for playing with aws ecs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hasham7861/test-fastify-api-for-ecs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hasham7861/test-fastify-api-for-ecs/issues"
+  },
+  "homepage": "https://github.com/hasham7861/test-fastify-api-for-ecs#readme",
+  "dependencies": {
+    "fastify": "^4.23.0"
+  }
+}
